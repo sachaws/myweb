@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: mywebdeployment
+  name: deployments.yaml
   labels:
     app: myweb
 
